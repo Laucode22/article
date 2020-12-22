@@ -7,7 +7,7 @@ class App extends Component {
   return (
     <div className="App">
        <Article title="The news!" content="Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
-       url="https://bit.ly/34sbLqT" width={200}/>
+       url="https://www.beready.pk/Images/NewsPaper/20190506082843442-.jpg" width={200}/>
        
     </div>
   ); 
